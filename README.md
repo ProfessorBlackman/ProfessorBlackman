@@ -19,6 +19,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProfessorBlackman&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorBlackman&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## WakaTime Stats:
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ProfessorBlackman&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
