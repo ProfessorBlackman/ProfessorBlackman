@@ -2,6 +2,14 @@
 🔭 I’m currently working on MiniTools and Clockmate<br>👯 I’m looking to collaborate on any project based on any of my stacks<br>🤝 I’m looking for help with Spring boot<br>🌱 I’m currently learning Java, Spring Boot, Flutter, AWS<br>💬 Ask me about Python or Django<br>⚡ Fun fact: I love reading and can spend an entire month reading in my room
 
 
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view?uid=31iawmovsltytlkmn2kwu2qr4awu&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31iawmovsltytlkmn2kwu2qr4awu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/methuselahnwodobeh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@methuselah_1) 
 
